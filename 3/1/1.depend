@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1580912317 source:e:\university\fop\project\3\1\cjson.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1580910545 source:e:\university\fop\project\3\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<winsock2.h>
+	"cJSON.h"
+
+1580912210 e:\university\fop\project\3\1\cjson.h
+
