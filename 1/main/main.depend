@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1575929324 source:e:\university\fop\project\new folder\1.1.1\main\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1575929324 e:\university\fop\project\new folder\1.1.1\main\cjson.h
+	<stddef.h>
+
+1577736852 source:e:\university\fop\project\new folder\1.1.1\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<winsock2.h>
+	"cJSON.h"
+
+1575929324 source:e:\university\fop\project\1\new folder\1.1.1\main\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1575929324 e:\university\fop\project\1\new folder\1.1.1\main\cjson.h
+	<stddef.h>
+
+1580479012 source:e:\university\fop\project\1\new folder\1.1.1\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<winsock2.h>
+	"cJSON.h"
+
